@@ -1,4 +1,4 @@
-🚀 <h1>About Me</h1>
+<h1>🚀About Me</h1>
 
 ``` typescript
 const developer = {
