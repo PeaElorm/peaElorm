@@ -22,7 +22,7 @@ const developer = {
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-🔭 <h2>Currently Working On</h2> <br/>
+<h2>🔭 Currently Working On</h2> <br/>
 🧠 Work projects I cannot disclose <br/>
 🎨 Design System - Building reusable UI components with NextUI and Tailwind CSS <br/>
 
@@ -32,21 +32,21 @@ const developer = {
 🔒 Web Security - Authentication, authorization, and best practices <br/>
 ⚡ Laravel <br/>
 
-👯 <h2>Looking to Collaborate On</h2> <br/>
+<h2>👯 Looking to Collaborate On</h2> <br/>
 🌍 Open Source Projects - Especially React/Next.js libraries <br/>
 🤝 SaaS Applications - Building products that solve real problems <br/>
 🎓 Educational Content - Tutorials, blog posts, and developer resources <br/>
 
-🤔 <h2>Looking for Help With</h2> <br/>
+<h2>🤔 Looking for Help With</h2> <br/>
 🏗️ System Architecture - Scaling applications for millions of users <br/>
 📊 Analytics & Metrics - Understanding user behavior and app performance <br/>
 🔧 DevOps & Deployment - CI/CD pipelines and cloud infrastructure <br/>
 
-💬 <h2>Ask Me About</h2> <br/>
+<h2>💬 Ask Me About</h2> <br/>
 ⚛️ React & Next.js - From basics to advanced patterns <br/>
 🎨 Frontend Development - Modern CSS, animations, and responsive design <br/>
 🔧 Developer Tools - VS Code extensions, productivity hacks <br/>
 🌐 Web Development - Best practices, performance, accessibility <br/>
-☕ Food - Always up to talk about Tech over food🙈😂 <br/>
+☕ Food - Always up to talk about Tech over food🙈😂 <br/><br/><br/>
 
 Check out my Instagram page: https://www.instagram.com/the_techie_pea/
