@@ -6,7 +6,7 @@ const developer = {
   location: "Accra, Ghana",
   code: ["TypeScript", "JavaScript", "Python", "React", "Next.js"],
   currentFocus: "Building scalable web applications",
-  funFact: "I debug with console.log and I'm not ashamed! 🐛"
+  funFact: "I love music and i play the guitar"
 };
 ```
 
