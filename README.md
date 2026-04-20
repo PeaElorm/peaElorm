@@ -2,7 +2,7 @@
 
 ``` typescript
 const developer = {
-  name: Pea,
+  name: "Pea",
   location: "Accra, Ghana",
   code: ["TypeScript", "JavaScript", "Python", "React", "Next.js"],
   currentFocus: "Building scalable web applications",
